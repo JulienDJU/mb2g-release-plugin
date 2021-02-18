@@ -39,5 +39,5 @@ jobs:
 
             # run tests!
             #- run: mvn --batch-mode release:prepare release:perform -s .circleci/settings.xml
-            - run: mvn --batch-mode release:prepare release:perform -s .cirlceci/settings.xml
+            - run: mvn --batch-mode release:prepare release:perform -s .circleci/settings.xml
 
