@@ -67,7 +67,7 @@
     <distributionManagement>
         <repository>
             <id>packagecloud.release</id>
-            <url>packagecloud+https://packagecloud.io/springframeworkguru/release</url>
+            <url>packagecloud+https://packagecloud.io/jdamond/release</url>
         </repository>
         <snapshotRepository>
             <id>packagecloud.snapshot</id>
