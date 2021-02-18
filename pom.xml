@@ -71,7 +71,7 @@
         </repository>
         <snapshotRepository>
             <id>packagecloud.snapshot</id>
-            <url>packagecloud+https://packagecloud.io/springframeworkguru/snapshot</url>
+            <url>packagecloud+https://packagecloud.io/jdamond/snapshot</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
