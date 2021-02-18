@@ -10,7 +10,7 @@
         </server>
         <server>
             <id>packagecloud.snapshot</id>
-            <password>${env.PCLOUD}</password>
+            <password>${PCLOUD}</password>
         </server>
         <server>
             <id>github</id>
